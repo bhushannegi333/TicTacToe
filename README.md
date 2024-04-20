@@ -1,6 +1,7 @@
 # Tic-Tac-Toe Game
 
-This is a simple command-line Tic-Tac-Toe game written in Python.
+This is a simple command-line Tic-Tac-Toe game written in HTML5,CSS3,JAVASCRIPT.
+VIEW LIVE ( https://bhushannegi333.github.io/TicTacToe/)
 
 ## Features
 
